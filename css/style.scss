@@ -282,7 +282,6 @@ ul {
 		margin-top: 60px;
 		margin-left: 0px;
 		margin-right: 0px;
-		display:block;
 	}
 
 	.gravatar {
@@ -443,6 +442,7 @@ ul {
 			padding-right: 30px;
 		}
 	}
+
 }
 
 
@@ -532,6 +532,10 @@ ul {
 		@media (min-width: $screen-lg-min) {
 			width: 50%;
 			margin-left: 25%;
+		}
+		
+		.row{
+			display:block;
 		}
 
 		.thumb {
