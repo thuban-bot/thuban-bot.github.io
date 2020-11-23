@@ -6,8 +6,8 @@ baseurl: ""
 url: "https://thuban-bot.github.io/"
 title_description: "Hello, and welcome to our website. Thuban is a French chess engine developped since August 2020. This is more than an another clone of famous chessbots. We developped this AI from scratch, and that's really satisfying. Thanks for joining us !"
 title_image: "https://www.gravatar.com/avatar/00000000000000000000000000000000?s=500&d=mm"
-google_analytics: "UA-20365477-4"
-disqus_account: cartenoire
+google_analytics: 
+disqus_account: 
 github_repository: https://github.com/thuban-bot/thuban-bot.github.io
 addthis_id: 
 post_limit: 5
@@ -17,6 +17,7 @@ twitter_username:
 github_username:  thuban-bot
 instagram_username: 
 reddit_username: 
+discord_link: https://discord.gg/8JYntMfMpQ
 linkedin_link: 
 google_plus_link: 
 stackoverflow_link: 
