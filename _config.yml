@@ -8,7 +8,7 @@ title_description: "Hello, and welcome to our website. Thuban is a French chess 
 title_image: "/img/constellationDragon.jpg"
 google_analytics: 
 disqus_account: 
-github_repository: https://github.com/thuban-bot/thuban-bot.github.io
+github_repository: https://github.com/thuban-bot/thuban-bot.github.io/tree/main/engine/
 addthis_id: 
 post_limit: 5
 
@@ -26,7 +26,7 @@ xing_link:
 facebook_link:
 
 # Footer
-footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://www.linkedin.com/in/hugo-aillerie-061562157/\">Hugo</a> and <a href=\"https://www.linkedin.com/in/nicolasgutierrez/\">Nico</a>"
+footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://www.linkedin.com/in/hugo-aillerie-061562157/ target="_new" \">Hugo</a> and <a href=\"https://www.linkedin.com/in/nicolasgutierrez/ target="_new" \">Nico</a>"
 footer_right: "&lt;/&gt; on <a href=\"https://github.com/thuban-bot/thuban-bot.github.io\">Github</a> &nbsp;<i class=\"fab fa-github-alt\"></i>"
 
 # Build settings
