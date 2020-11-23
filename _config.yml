@@ -5,7 +5,7 @@ description: "The French Homemade Chessbot"
 baseurl: ""
 url: "https://thuban-bot.github.io/"
 title_description: "Hello, and welcome to our website. Thuban is a French chess engine developped since August 2020. This is more than an another clone of famous chessbots. We developped this AI from scratch, and that's really satisfying. Thanks for joining us !"
-title_image: "/img/constellationDragon.jpg"
+title_image: "/img/constellationDragon.png"
 google_analytics: 
 disqus_account: 
 github_repository: https://github.com/thuban-bot/thuban-bot.github.io
