@@ -15,7 +15,7 @@ $github:         #f6c2a4;
 $stack-overflow: #c98b3b;
 $instagram:      #cd486b;
 $reddit:         #cee3f8;
-$rss:            #eea33a;
+$lichess:            #eea33a;
 
 $darker:         #21211E;
 $dark:           #2D2D29;
@@ -219,8 +219,8 @@ ul {
 		color: $reddit;
 	}
 	
-	.fa-rss:hover {
-		color: $rss;
+	.fa-chess-knight:hover {
+		color: $lichess;
 	}
 }
 
