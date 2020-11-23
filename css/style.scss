@@ -9,6 +9,7 @@ $twitter:        #6dabda;
 $linkedin:       #2b77b1;
 $xing:           #006567;
 $google-plus:    #c95644;
+$discord:        #c95644;
 $facebook:       #365899;
 $github:         #f6c2a4;
 $stack-overflow: #c98b3b;
@@ -195,7 +196,9 @@ ul {
 	.fa-google-plus:hover {
 		color: $google-plus;
 	}
-	
+	.fa-discord:hover {
+		color: $discord;
+	}
 	.fa-facebook:hover {
 		color: $facebook;
 	}
