@@ -513,7 +513,9 @@ ul {
 			}
 		}
 	}
-
+	.row{
+		display:block;
+	}
 	.article {
 		width: 100%;
 		margin-left: 0%;
@@ -532,10 +534,6 @@ ul {
 		@media (min-width: $screen-lg-min) {
 			width: 50%;
 			margin-left: 25%;
-		}
-		
-		.row{
-			display:block;
 		}
 
 		.thumb {
