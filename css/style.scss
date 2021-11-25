@@ -15,14 +15,14 @@ $github:         #f6c2a4;
 $stack-overflow: #c98b3b;
 $instagram:      #cd486b;
 $reddit:         #cee3f8;
-$lichess:            #eea33a;
+$lichess:        #eea33a;
 
 $darker:         #21211E;
 $dark:           #2D2D29;
-$medium:         #3B3B35;
+$medium:         #2D2D29;
 $light-medium:   #969696;
 $dark-blue:      #215A6D;
-$light-blue:     #3CA2A2;
+$light-blue:     #ffa112;
 $green:          #92C7A3;
 $light:          #DFECE6;
 $white:          #FFFFFF;
@@ -140,7 +140,7 @@ ul {
 	padding-right: 30px;
 	margin-top: 20px;
 	box-shadow: 0px 0px 0px 0px, 0px 6px 12px rgba(0, 0, 0, 0.2);
-	border-bottom: 5px solid $light-blue;
+	border-bottom: 2px solid $light-blue;
 }
 
 #my-menu {
@@ -313,7 +313,7 @@ ul {
 
 		h2 {
 			margin-bottom: 30px;
-			color: $light-blue;
+			color: #fff;
 			font-size: 26px;
 		}
 
