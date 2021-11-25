@@ -21,7 +21,7 @@ $darker:         #21211E;
 $dark:           #2D2D29;
 $medium:         #2D2D29;
 $light-medium:   #969696;
-$dark-blue:      #215A6D;
+$dark-blue:      #fff;
 $light-blue:     #ffa112;
 $green:          #92C7A3;
 $light:          #DFECE6;
@@ -259,7 +259,7 @@ ul {
 	}
 
 	.content-panel:nth-of-type(1) {
-		border-bottom: 10px solid $light-blue;
+		border-bottom: 2px solid $light-blue;
 	}
 
 	.author-header {
