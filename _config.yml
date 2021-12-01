@@ -14,7 +14,7 @@ post_limit: 5
 
 # Social usernames/URLs
 twitter_username: 
-github_username:  thuban-bot
+github_username:  https://github.com/thuban-bot/thuban-bot.github.io/tree/main/engine
 instagram_username: 
 reddit_username: 
 discord_link: https://discord.gg/8JYntMfMpQ
@@ -23,7 +23,7 @@ linkedin_link:
 google_plus_link: 
 stackoverflow_link: 
 xing_link:
-facebook_link: https://github.com/thuban-bot/thuban-bot.github.io/tree/main/engine
+facebook_link: 
 
 # Footer
 footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://www.linkedin.com/in/hugo-aillerie-061562157/\">Hugo</a> and <a href=\"https://www.linkedin.com/in/nicolasgutierrez/\">Nico</a>"
